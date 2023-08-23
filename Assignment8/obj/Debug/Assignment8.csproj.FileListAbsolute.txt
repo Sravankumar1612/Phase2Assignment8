@@ -1,0 +1,13 @@
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\bin\Debug\Assignment8.exe.config
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\bin\Debug\Assignment8.exe
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\bin\Debug\Assignment8.pdb
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\bin\Debug\EntityFramework.dll
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\bin\Debug\EntityFramework.xml
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.AssemblyReference.cache
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.SuggestedBindingRedirects.cache
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.CoreCompileInputs.cache
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.CopyComplete
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\obj\Debug\Assignment8.exe
+E:\Dotnet\Phase2\Assignments\Assignment8\Assignment8\obj\Debug\Assignment8.pdb
